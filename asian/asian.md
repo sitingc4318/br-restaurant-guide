@@ -2,8 +2,8 @@
 ## Asian
 ---
 Select a specific Asian food:
-## Chinese
-## Japanese
-## Thai
+## [Chinese](http://www.brooklyntasteofchina.com/)
+## [Japanese]( http://www.brsushi.com/)
+## [Thai]
 ---
-Start Over
+[Start Over](../home.md)
